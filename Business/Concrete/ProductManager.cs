@@ -18,6 +18,7 @@ namespace Business.Concrete
             _productDal = productDal;
         }
 
+
         public List<Product> GetAll()
         {
             // İş Kodları
